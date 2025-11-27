@@ -19,7 +19,7 @@ This tool simplifies text preprocessing using Natural Language Processing (NLP) 
      - **Input:** "Tokenization is important. It breaks down text."
      - **Output:** ["Tokenization is important.", "It breaks down text."]
 5. **Tokenize into Paragraphs**
-     - **Input:** "Tokenization is important. It involves breaking down text into units.\n\nAfter tokenization, further analysis is possible."
+     - **Input:** "Tokenization is important. It involves breaking down text into units.After tokenization, further analysis is possible."
      - **Output:** ["Tokenization is important. It involves breaking down text into units.", "After tokenization, further analysis is possible."]
 
 ## Required Modules
